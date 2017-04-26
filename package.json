@@ -1,0 +1,23 @@
+{
+  "name": "epub-library-site-node",
+  "version": "1.0.0",
+  "description": "Web site to show epubs stored in a library directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orthros/epub-library-site-node.git"
+  },
+  "keywords": [
+    "node",
+    "epub"
+  ],
+  "author": "Colin Nelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orthros/epub-library-site-node/issues"
+  },
+  "homepage": "https://github.com/orthros/epub-library-site-node#readme"
+}

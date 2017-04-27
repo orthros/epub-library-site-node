@@ -4,7 +4,8 @@
   "description": "Web site to show epubs stored in a library directory",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "grunt",
+    "test": "echo 'No tests'"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,12 @@
   },
   "homepage": "https://github.com/orthros/epub-library-site-node#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "grunt-cli": "^1.2.0"
+  },
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-nodemon": "^0.4.2",
+    "node-inspector": "^1.1.1"
   }
 }

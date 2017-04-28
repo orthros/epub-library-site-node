@@ -23,7 +23,8 @@
   "homepage": "https://github.com/orthros/epub-library-site-node#readme",
   "dependencies": {
     "express": "^4.15.2",
-    "grunt-cli": "^1.2.0"
+    "grunt-cli": "^1.2.0",
+    "pug": "^2.0.0-beta.12"
   },
   "devDependencies": {
     "grunt": "~1.0.1",
